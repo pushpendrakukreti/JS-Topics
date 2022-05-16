@@ -13,7 +13,7 @@ var foo; //it will bubble up to top
 
 func();   //foo called!!
 function func(){      //this function will bubble up to top
-    console.log('func called!!');
+    console.log('func called!');
 }
 
 //let and const will not bubble up and work for same line when declared
