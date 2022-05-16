@@ -16,7 +16,13 @@ const users = [
         name: "Lucy",
         isActive: true,
         age: 28
-    }
+    },
+    {
+        id: 4,
+        name: "PK",
+        isActive: true,
+        age: 25
+    },
 ];
 
 // const names = [];
