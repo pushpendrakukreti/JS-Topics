@@ -4,7 +4,7 @@ const privateCounter = () => {
     let count = 0;
 
     return {
-        increment: (val = 4) => {
+        increment: (val = 1) => {
             count += val;
         },
         getValue: () =>{
