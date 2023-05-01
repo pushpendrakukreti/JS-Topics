@@ -1,5 +1,5 @@
-/*Hoisting means the declaration of variables and functions bubble up
-to the top*/
+// Hoisting means the declaration of variables and functions bubble up to the top
+// Hoisting is when you use a variable before you define it.
 
 //console.log(foo);  //foo is not defined
 //foo=1;  //declaration with no type
